@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=SIM800L Member=ÑïÉùÆ÷1
+Removed Member From Class: ClassName=SIM800L Member=»°Í²1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=E? NewDesignator=E1
+Add Component: Footprint Not Found Âó¿Ë·ç»°Í²
+Added Component: Designator=L1(ÑïÉùÆ÷)
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-K
+Added Pin To Net: NetName=NetH1_1 Pin=SIM1-8
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH1_2 Pin=SIM1-9
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=SIM1-10
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=SIM1-11
+Added Net: Name=NetL1_2
+Add Class Member: Failed to add class member : Component H1 »°Í²
+Added Member To Class: ClassName=SIM800L Member=Component L1 ÑïÉùÆ÷

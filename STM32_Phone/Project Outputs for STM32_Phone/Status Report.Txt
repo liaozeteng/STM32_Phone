@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [STM32_Phone.PrjPcb]
+   Generated File[Phone.GTO]
+   Generated File[Phone.GTP]
+   Generated File[Phone.GTS]
+   Generated File[Phone.GTL]
+   Generated File[Phone.GBL]
+   Generated File[Phone.GBS]
+   Generated File[Phone.GBP]
+   Generated File[Phone.GBO]
+   Generated File[Phone.GM1]
+   Generated File[Phone.GM13]
+   Generated File[Phone.GM15]
+   Generated File[Phone.GPT]
+   Generated File[Phone.GPB]
+   Generated File[Phone.GD1]
+   Generated File[Phone.GG1]
+   Generated File[Phone.GM]
+   Generated File[Phone.EXTREP]
+   Generated File[Phone.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 17:33:50 On 2023/11/24

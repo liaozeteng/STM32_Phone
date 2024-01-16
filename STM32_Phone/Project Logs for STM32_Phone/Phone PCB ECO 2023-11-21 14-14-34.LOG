@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=ACDC Member=Q2
+Added Component: Designator=Q1(SOT23)
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-K
+Added Pin To Net: NetName=NetQ1_D Pin=Q1-D
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=+IN Pin=Q1-S
+Added Member To Class: ClassName=ACDC Member=Component Q1 P-MOS

@@ -1,0 +1,137 @@
+Protel Design System Design Rule Check
+PCB File : D:\AD_PCB\PCB_Project\STM32_Phone\Phone.PcbDoc
+Date     : 2023/11/24
+Time     : 17:32:54
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad Li1-2(105mm,48mm) on Multi-Layer on Net NetLi1_2
+   Pad Li2-1(82.5mm,48mm) on Multi-Layer on Net NetLi1_2
+   Pad Li2-2(82.5mm,111mm) on Multi-Layer on Net GND
+   Pad BTN21-3(110mm,54.5mm) on Multi-Layer on Net BUTTON_H5
+   Pad BTN21-4(110mm,56.7mm) on Multi-Layer on Net BUTTON_L4
+   Pad BTN21-1(106mm,54.5mm) on Multi-Layer on Net NetBTN21_1
+   Pad BTN21-2(106mm,56.7mm) on Multi-Layer on Net NetBTN21_2
+   Pad L1-2(93mm,128mm) on Multi-Layer on Net NetL1_2
+   Pad L1-1(93mm,137mm) on Multi-Layer on Net NetL1_1
+   Pad BTN7-4(79.8mm,76.1mm) on Multi-Layer on Net NetBTN1_4
+   Pad BTN7-3(78.2mm,76.1mm) on Multi-Layer on Net NetBTN7_3
+   Pad BTN7-1(78.2mm,80.1mm) on Multi-Layer on Net BUTTON_H2
+   Pad BTN18-3(82mm,54.6mm) on Multi-Layer on Net BUTTON_H5
+   Pad BTN18-4(82mm,56.8mm) on Multi-Layer on Net BUTTON_L1
+   Pad BTN18-1(78mm,54.6mm) on Multi-Layer on Net NetBTN18_1
+   Pad BTN18-2(78mm,56.8mm) on Multi-Layer on Net NetBTN18_2
+   Pad Li1-1(105mm,111mm) on Multi-Layer on Net +IN
+   Pad BTN1-1(78.2mm,87mm) on Multi-Layer on Net BUTTON_H1
+   Pad BTN1-2(79.8mm,87mm) on Multi-Layer on Net NetBTN1_2
+   Pad BTN1-3(78.2mm,83mm) on Multi-Layer on Net NetBTN1_3
+   Pad BTN1-4(79.8mm,83mm) on Multi-Layer on Net NetBTN1_4
+   Pad BTN3-1(95.9mm,86.5mm) on Multi-Layer on Net NetBTN3_1
+   Pad BTN3-2(95.9mm,84.9mm) on Multi-Layer on Net NetBTN3_2
+   Pad BTN3-3(91.9mm,86.5mm) on Multi-Layer on Net NetBTN1_3
+   Pad BTN3-4(91.9mm,84.9mm) on Multi-Layer on Net NetBTN3_4
+   Pad BTN9-1(107.4mm,80mm) on Multi-Layer on Net NetBTN9_1
+   Pad BTN9-2(109mm,80mm) on Multi-Layer on Net NetBTN9_2
+   Pad BTN9-3(107.4mm,76mm) on Multi-Layer on Net GND
+   Pad BTN9-4(109mm,76mm) on Multi-Layer on Net BUTTON_WKUP
+   Pad BTN2-1(107.4mm,86.6mm) on Multi-Layer on Net NetBTN1_3
+   Pad BTN2-2(109mm,86.6mm) on Multi-Layer on Net NetBTN2_2
+   Pad BTN2-4(109mm,82.6mm) on Multi-Layer on Net NetBTN2_4
+   Pad BTN8-1(96mm,78mm) on Multi-Layer on Net NetBTN5_3
+   Pad BTN8-2(96mm,76.4mm) on Multi-Layer on Net NetBTN4_4
+   Pad BTN8-3(92mm,78mm) on Multi-Layer on Net NetBTN7_3
+   Pad BTN8-4(92mm,76.4mm) on Multi-Layer on Net NetBTN8_4
+   Pad BTN4-1(88.3mm,82.3mm) on Multi-Layer on Net NetBTN1_3
+   Pad BTN4-3(84.3mm,82.3mm) on Multi-Layer on Net NetBTN4_3
+   Pad BTN4-4(84.3mm,80.7mm) on Multi-Layer on Net NetBTN4_4
+   Pad BTN6-1(103.7mm,82.4mm) on Multi-Layer on Net NetBTN6_1
+   Pad BTN6-2(103.7mm,80.8mm) on Multi-Layer on Net NetBTN2_4
+   Pad BTN6-3(99.7mm,82.4mm) on Multi-Layer on Net NetBTN5_3
+   Pad BTN6-4(99.7mm,80.8mm) on Multi-Layer on Net NetBTN6_4
+   Pad BTN5-1(92mm,80.8mm) on Multi-Layer on Net NetBTN5_1
+   Pad BTN5-2(92mm,82.4mm) on Multi-Layer on Net NetBTN3_4
+   Pad BTN5-3(96mm,80.8mm) on Multi-Layer on Net NetBTN5_3
+   Pad BTN5-4(96mm,82.4mm) on Multi-Layer on Net NetBTN5_4
+   Pad BTN11-2(87mm,70mm) on Multi-Layer on Net NetBTN8_4
+   Pad BTN13-2(106mm,70mm) on Multi-Layer on Net NetBTN6_4
+   Pad BTN12-2(96mm,70mm) on Multi-Layer on Net NetBTN5_4
+   Pad BTN10-2(78mm,70mm) on Multi-Layer on Net NetBTN1_4
+   Pad BTN13-1(106mm,67.8mm) on Multi-Layer on Net NetBTN13_1
+   Pad BTN13-4(110mm,70mm) on Multi-Layer on Net BUTTON_L4
+   Pad BTN13-3(110mm,67.8mm) on Multi-Layer on Net BUTTON_H3
+   Pad BTN12-1(96mm,67.8mm) on Multi-Layer on Net NetBTN12_1
+   Pad BTN12-4(100mm,70mm) on Multi-Layer on Net BUTTON_L3
+   Pad BTN12-3(100mm,67.8mm) on Multi-Layer on Net BUTTON_H3
+   Pad BTN11-1(87mm,67.8mm) on Multi-Layer on Net NetBTN11_1
+   Pad BTN11-4(91mm,70mm) on Multi-Layer on Net BUTTON_L2
+   Pad BTN11-3(91mm,67.8mm) on Multi-Layer on Net BUTTON_H3
+   Pad BTN10-1(78mm,67.8mm) on Multi-Layer on Net NetBTN10_1
+   Pad BTN10-4(82mm,70mm) on Multi-Layer on Net BUTTON_L1
+   Pad BTN10-3(82mm,67.8mm) on Multi-Layer on Net BUTTON_H3
+   Pad BTN17-2(106mm,64mm) on Multi-Layer on Net NetBTN17_2
+   Pad BTN17-1(106mm,61.8mm) on Multi-Layer on Net NetBTN17_1
+   Pad BTN17-4(110mm,64mm) on Multi-Layer on Net BUTTON_L4
+   Pad BTN17-3(110mm,61.8mm) on Multi-Layer on Net BUTTON_H4
+   Pad BTN16-2(96mm,64mm) on Multi-Layer on Net NetBTN16_2
+   Pad BTN16-1(96mm,61.8mm) on Multi-Layer on Net NetBTN16_1
+   Pad BTN16-4(100mm,64mm) on Multi-Layer on Net BUTTON_L3
+   Pad BTN16-3(100mm,61.8mm) on Multi-Layer on Net BUTTON_H4
+   Pad BTN15-2(87mm,64mm) on Multi-Layer on Net NetBTN15_2
+   Pad BTN15-1(87mm,61.8mm) on Multi-Layer on Net NetBTN15_1
+   Pad BTN15-4(91mm,64mm) on Multi-Layer on Net BUTTON_L2
+   Pad BTN15-3(91mm,61.8mm) on Multi-Layer on Net BUTTON_H4
+   Pad BTN14-2(78mm,64mm) on Multi-Layer on Net NetBTN14_2
+   Pad BTN14-1(78mm,61.8mm) on Multi-Layer on Net NetBTN14_1
+   Pad BTN14-4(82mm,64mm) on Multi-Layer on Net BUTTON_L1
+   Pad BTN14-3(82mm,61.8mm) on Multi-Layer on Net BUTTON_H4
+   Pad BTN20-2(96mm,56.7mm) on Multi-Layer on Net NetBTN20_2
+   Pad BTN20-1(96mm,54.5mm) on Multi-Layer on Net NetBTN20_1
+   Pad BTN20-4(100mm,56.7mm) on Multi-Layer on Net BUTTON_L3
+   Pad BTN20-3(100mm,54.5mm) on Multi-Layer on Net BUTTON_H5
+   Pad BTN19-2(87mm,56.8mm) on Multi-Layer on Net NetBTN19_2
+   Pad BTN19-1(87mm,54.6mm) on Multi-Layer on Net NetBTN19_1
+   Pad BTN19-4(91mm,56.8mm) on Multi-Layer on Net BUTTON_L2
+   Pad BTN19-3(91mm,54.6mm) on Multi-Layer on Net BUTTON_H5
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) ((InNamedPolygon('buttom_GND') OR InNamedPolygon('top_GND'))),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.18mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.18mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

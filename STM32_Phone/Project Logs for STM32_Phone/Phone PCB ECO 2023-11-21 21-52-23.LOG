@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=K1 Old Footprint=SMD-3X6X2.5 New Footprint=DIP-12X12X6
+Add Component: Footprint Not Found 麦克风话筒
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-K
+Add Pin To Net: Unknown Pin: Pin H1-1
+Add Pin To Net: Unknown Pin: Pin H1-2
+Add Class Member: Failed to add class member : Component H1 话筒
+Added Room: Name=ACDC
+Added Room: Name=BUTTON
+Added Room: Name=DC_DC
+Added Room: Name=DISPLAY
+Added Room: Name=flash
+Added Room: Name=SIM800L
+Added Room: Name=STM32_miniSystem

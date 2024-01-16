@@ -1,0 +1,12 @@
+Change Footprint: Cannot match pads with new footprint in component :Q1 Footprint:SOT23
+Added Component: Designator=Q2(SOT23)
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-K
+Added Member To Class: ClassName=ACDC Member=Component Q2 P-MOS
+Added Room: Name=ACDC
+Added Room: Name=BUTTON
+Added Room: Name=DC_DC
+Added Room: Name=DISPLAY
+Added Room: Name=flash
+Added Room: Name=SIM800L
+Added Room: Name=STM32_miniSystem

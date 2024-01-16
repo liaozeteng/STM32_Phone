@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+5 Pin=D2-1
+Removed Pin From Net: NetName=SIM800L_VIN Pin=D2-2
+Removed Pin From Net: NetName=+IN Pin=DC-DC1-1
+Removed Pin From Net: NetName=+IN Pin=DC-DC2-1
+Change Component Footprint: Designator=E1 Old Footprint=CAP 5.0*12.5*25-H - GD New Footprint=CAP 1.5*4*8
+Change Component Footprint: Designator=K1 Old Footprint=SMD-3X6X2.5 New Footprint=DIP-12X12X6
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-K
+Added Member To Class: ClassName=BUTTON Member=Component C18 104
+Added Room: Name=ACDC
+Added Room: Name=BUTTON
+Added Room: Name=DC_DC
+Added Room: Name=DISPLAY
+Added Room: Name=flash
+Added Room: Name=SIM800L
+Added Room: Name=STM32_miniSystem

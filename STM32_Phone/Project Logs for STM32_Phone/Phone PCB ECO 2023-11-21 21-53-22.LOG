@@ -1,0 +1,6 @@
+Added Component: Designator=H1(»°Í²)
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-K
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Member To Class: ClassName=SIM800L Member=Component H1 »°Í²
