@@ -1,0 +1,5 @@
+Added Component: Designator=U1(TO220A)
+Added Component: Designator=U2(SOT223)
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM7805
+Added Member To Class: ClassName=Sheet1 Member=Component U2 AMS1117
+Added Room: Name=Sheet1
